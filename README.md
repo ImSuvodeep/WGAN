@@ -7,7 +7,7 @@ wandbact: Flag indicating whether to use Weights & Biases for logging (set to 1 
 Other relevant parameters for your specific use case
 Dependencies
 Python 3.x
-PyTorch
+Pytorch
 tqdm
 Weights & Biases (optional, set wandbact accordingly)
 Matplotlib (for visualization)
